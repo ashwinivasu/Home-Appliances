@@ -1,0 +1,151 @@
+.bg{
+    height:250vh;
+    background-size: auto;
+}
+.nav-content{
+    width: 100%;
+    height: 91px;
+    gap: 0px;
+    opacity: 0px;
+}
+.heading{
+    width: 640px;
+    height: 49px;
+    top: 245px;
+    left: 223px;gap: 0px;
+    opacity: 0px;
+    color: #000000;
+    padding-left: 80px;
+}
+.para{
+    width: 600px;
+    height: 64px;
+    top: 305px;
+    left: 226px;
+    gap: 0px;
+    opacity: 0px;
+    color: #525f7f;
+    padding-left: 80px;
+}
+.search{
+    width: 600px;
+    height: 150px;
+    top: 397px;
+    left: 226px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left: 80px;
+}
+.tab{
+    width: 600px;
+    height: 405.89px;
+    top: 188px;
+    left: 808px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left:95px;
+}
+.heading-1{
+    width: 663px;
+    height: 48px;
+    top: 616px;
+    left: 209px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left: 80px;
+    color:#000000;
+}
+.para-1{
+    width: 1085px;
+    height: 34px;
+    top: 683px;
+    left: 209px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left: 80px;
+    color:#525f7f;
+}
+.card{
+    border:0px;
+    width:350px;
+    border-color:aliceblue;
+    border-radius:0px;
+    border-width:0px;
+    height: 600px;
+    padding: 10px;
+    margin-left:80px;
+}
+.logo{
+    width: 50px;
+    height: 60px;
+    padding-left:80px;
+    padding:10px;
+}
+.container-head{
+    font-size:25px;
+    color:#000000;
+    padding:10px
+}
+.container-para{
+    width:300px;
+    font-family: "Roboto";
+    color:#525f7f;
+    padding:5px;
+}
+.card-2{
+    margin-top:50px;
+}
+.book{
+    width: 1238px;
+    height: 485px;
+    top: 1302px;
+    left: 117px;
+    margin:80px;
+}
+.feature{
+    width: 1331px;
+    height: 244px;
+    top: 1803px;
+    left: 55px;
+    margin-left:80px;
+}
+.feedback{
+    width: 1332px;
+    height: 382px;
+    top: 2137px;
+    left: 70px;
+    margin-left:80px;
+    margin-top:30px;
+}
+.proto{
+    width:100%;
+    height:300px;
+}
+.heading-2{
+    color:#000000;
+    text-align:center;
+    font-weight: bold;
+    padding:30px;
+}
+.container-2{
+    border:0px;
+    width:350px;
+    border-color:aliceblue;
+    border-radius:0px;
+    border-width:0px;
+    height: 500px;
+    padding: 10px;
+    margin-left:80px;
+}
+.container-head-2{
+    font-size:25px;
+    color:#000000;
+    padding:10px;
+    text-align:center;
+}
+.container-para-2{
+    font-family: "Roboto";
+    color:#525f7f;
+    padding:5px;
+    text-align: center;
+}
